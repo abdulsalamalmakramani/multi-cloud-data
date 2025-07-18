@@ -1,0 +1,2 @@
+This is data from the GitHub-hosted "cloud service"
+Hello Multi-Cloud world
